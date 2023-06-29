@@ -1,17 +1,4 @@
-<div align='center'>
 
-  <h1>AppSpace</h1>
-
-  <h4>
-    私有化部署服务,集成应用分发 Bug管理 提供iOS、Android、Flutter、React-Native SDK，支持自动化部署jenkins fastlane等丰富组件 
-  </h4>
-
-  <div>
-    <a href="https://appspa.github.io/">私有化部署</a> •
-    <a href="https://appspa.github.io/docs/developer-guide">快速接入</a> •
-    <a href="https://github.com/appspa/app-space-docker">docker部署</a> •
-  </div>
-</div>
 
 ## 在线演示
 > **注意**: 演示服务使用免费资源部署，资源额度耗尽会不可访问次月初重置；数据每日都会重新初始化，不对用户上传的应用承担任何法律风险，后果自负！(翻墙)
@@ -43,7 +30,7 @@
 * 安装 Nodejs
 
 
-1.clone 下载代码 `git clone https://github.com/appspa/app-space.git`
+1.clone 下载代码 
 
 2.运行server端
 
@@ -172,10 +159,9 @@ server{
 
 [//]: # ()
 [//]: # (## 发布协议)
-## 联系作者
-QQ:1206149686
 
-<img src="https://github.com/appspa/appspa.github.io/blob/main/static/img/qq.png" height=120/>
+
+
 
 [MIT][mit-link]
 
@@ -183,4 +169,4 @@ QQ:1206149686
 [app-space-ios-sdk]: https://github.com/appspa/app-space-ios-sdk
 [app-space-android-sdk]: https://github.com/appspa/app-space-android-sdk
 [fastlane-plugin-app-space]: https://github.com/appspa/fastlane-plugin-app-space
-[mit-link]: https://github.com/appspa/app-space/blob/develop/CHANGELOG.md
+[mit-link]: https://github.com/liqikun0000/rb-k/CHANGELOG.md
